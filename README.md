@@ -15,7 +15,7 @@
 <!--<img src="https://github-readme-stats.vercel.app/api?username=Randrita&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">-->
 
 <p align="center">
- <img  width="800" height="400" src="https://github.com/Randrita/randritas_intro/blob/main/my.png">
+ <img  width="800" height="500" src="https://github.com/Randrita/randritas_intro/blob/main/my.png">
 </p>
 <h2 align="center">Hello there! I'm Randrita Sarkar. 👋🤓</h2>
 <p align="center">I'm currently a student pursuing my Bachelor of Technology in Informational Technology from BPPIMT, Kolkata :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning. I've started exploring the field of computer vision as well ✨ and hope to contribute to that field as well. 
