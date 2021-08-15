@@ -50,8 +50,8 @@
 </p>
 
 
+![randrita](https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif)
 
-https://user-images.githubusercontent.com/60352282/129489981-ea9610cc-945b-4b77-9c2f-71f60dc32073.mp4
 
 
 
