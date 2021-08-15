@@ -46,12 +46,19 @@
 </p>
 
 <!--
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Randrita&show_icons=true&theme=radical" width="100" />
+  <img src="https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif" width="100" /> 
+</p>
+-->
+
+<!--
 <p align=left>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=Randrita&show_icons=true&theme=radical">
   ![randrita](https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif)
 </p>-->
 
-![stack]("https://github-readme-stats.vercel.app/api?username=Randrita&show_icons=true&theme=radical") ![randrita](https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif)
+![stack](https://github-readme-stats.vercel.app/api?username=Randrita&show_icons=true&theme=radical) ![randrita](https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif)
 
 
 
