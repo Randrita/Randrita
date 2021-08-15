@@ -48,5 +48,6 @@
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=Randrita&show_icons=true&theme=radical">
 </p>
-![alt text](https://skyline.github.com/randrita/2021)
+
+![Demo](https://skyline.github.com/randrita/2021)
 
