@@ -58,12 +58,12 @@
   ![randrita](https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif)
 </p>-->
 
-<a href="/http://github.com/randrita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://github.com/randrita" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randrita&show_icons=true&theme=dark&title_color=ab06b7&locale=en&layout=compact" width="320" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randrita&theme=dark" width="320" /> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randrita&show_icons=true&theme=dark&title_color=ab06b7&locale=en&layout=compact" alt="randrita" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randrita&theme=dark" alt="randrita" /></p>
 
 
 <p align="center">
