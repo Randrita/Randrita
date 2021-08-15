@@ -47,10 +47,11 @@
 
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=Randrita&show_icons=true&theme=radical">
+  ![randrita](https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif)
 </p>
 
 
-![randrita](https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif)
+
 
 
 
