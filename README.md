@@ -49,5 +49,9 @@
   <img align=center src="https://github-readme-stats.vercel.app/api?username=Randrita&show_icons=true&theme=radical">
 </p>
 
-![Demo](https://skyline.github.com/randrita/2021)
+
+
+https://user-images.githubusercontent.com/60352282/129489981-ea9610cc-945b-4b77-9c2f-71f60dc32073.mp4
+
+
 
