@@ -58,9 +58,9 @@
   ![randrita](https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif)
 </p>-->
 
-
-
-
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Randrita&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=true&hide_border=true">
+</p>
 
 
 
