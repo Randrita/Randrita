@@ -23,7 +23,7 @@
 
 <p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Memes are something that are appreciated very much 😂. </p>
 
-<p align="center"><a href="https://twitter.com/sarkar_randrita"><img src="https://github.com/Randrita/randritas_intro/blob/main/twitter.svg" height=25></a> <a href="https://www.linkedin.com/in/randrita-sarkar-8690591a1/"><img src="https://github.com/Randrita/randritas_intro/blob/main/linkedin.svg" height=25></a> <a href="https://www.instagram.com/randrita_sarkar/"><img src="https://github.com/Randrita/randritas_intro/blob/main/instagram.svg" height=25></a> 
+<p align="center"><a href="https://twitter.com/sarkar_randrita"><img src="https://github.com/Randrita/Randrita/blob/main/twitter_1.png" height=25></a> <a href="https://www.linkedin.com/in/randrita-sarkar-8690591a1/"><img src="https://github.com/Randrita/Randrita/blob/main/lin.png" height=25></a> <a href="https://www.instagram.com/randrita_sarkar/"><img src="https://github.com/Randrita/Randrita/blob/main/instagram.png" height=25></a> 
 </p>
 
 <p align=center>
