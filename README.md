@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randrita&show_icons=true&theme=dark&title_color=ab06b7&locale=en&layout=compact" width="318" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randrita&theme=radical&hide_border=true" width="320" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randrita&theme=radical&hide_border=false" width="320" /> 
 </p>
 
 <!--https://github-readme-streak-stats.herokuapp.com?user=randrita&theme=radical&hide_border=true-->
@@ -72,6 +72,6 @@
 </p>
 
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=randrita&show_icons=true&theme=radical)---->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=randrita&show_icons=true&theme=radical)------>
 
 
